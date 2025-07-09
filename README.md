@@ -3,8 +3,7 @@
 
 🚀 A second-year AI & ML Engineering student at MIT Manipal  
 🎯 Focused on mastering Full-Stack Web Development, DSA (C++), and Machine Learning  
-🧠 Learning in public, building real projects, and aiming for top-tier internships (FAANG, Goldman Sachs, etc.)
-
+🧠 Learning in public, building real projects, and aiming for excellence.
 ---
 
 ## 🛠 Tech Stack I'm Actively Using
